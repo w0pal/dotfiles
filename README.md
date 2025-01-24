@@ -4,14 +4,6 @@
         <img src="./assets/screenshot/main.jpg" />
 </p>
 
-<p align="center">
-        <img src="./assets/screenshot/themes.jpg" />
-</p>
-
-<p align="center">
-        <img src="./assets/screenshot/icons.jpg" />
-</p>
-
 - DE : XFCE
 - Theme : Matcha-dark-aliz
 - Icons : Qogir-ubuntu-dark
