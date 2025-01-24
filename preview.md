@@ -21,9 +21,10 @@
 - Shell : Fish
 - Prompt : Starship
 
-### Daily Used CLI Tools
+### Daily Use CLI Tools
 
 - exa --icons
 - bat
 - btop
 - vim
+- ranger
