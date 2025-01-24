@@ -9,6 +9,9 @@
         <value type="int" value="0"/>
       </property>
     </property>
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="6"/>
   </property>
   <property name="PNP0C5000_093A0255_Touchpad" type="empty">
     <property name="Properties" type="empty">
@@ -27,6 +30,6 @@
     <property name="RightHanded" type="bool" value="true"/>
     <property name="ReverseScrolling" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="5"/>
+    <property name="Acceleration" type="double" value="6"/>
   </property>
 </channel>
