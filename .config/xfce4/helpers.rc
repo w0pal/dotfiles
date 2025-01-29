@@ -1,2 +1,4 @@
 TerminalEmulator=kitty
+WebBrowser=firefox
+FileManager=thunar
 
